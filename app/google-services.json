@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "75673971753",
+    "firebase_url": "https://bustrackingapp-56375.firebaseio.com",
+    "project_id": "bustrackingapp-56375",
+    "storage_bucket": "bustrackingapp-56375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75673971753:android:0fb53dd885eb6ba1",
+        "android_client_info": {
+          "package_name": "hackathon.aces.bustrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75673971753-q5vdu2me3unam7v1b55gbbf8pk86f89i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackathon.aces.bustrackingapp",
+            "certificate_hash": "5596bca2492d88ac1bfc713f155c7f79e6055bcd"
+          }
+        },
+        {
+          "client_id": "75673971753-fpd7tmemd07vn7sei4uf1o7gm90chkv9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "75673971753-fpd7tmemd07vn7sei4uf1o7gm90chkv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA23_ygBqrPSqtMqPxvRGGSJEDHdbYKgoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75673971753-fpd7tmemd07vn7sei4uf1o7gm90chkv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

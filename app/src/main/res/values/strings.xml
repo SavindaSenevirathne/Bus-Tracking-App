@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bus Tracking App</string>
+    <string name="api_key">AIzaSyDh4iWdph45uPQ6USzXKmF8PS1Jaqt38vU</string>
+    <string name="MapButton">To Map View</string>
+
+</resources>
